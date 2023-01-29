@@ -4,14 +4,14 @@ I am Anna, a full-stack developer based in Helsinki, Finland. Apart from having 
 Check out my <a href="https://www.annaskuratova.com/">portfolio</a> to learn more about me, my skills, interests and projects I am working on. 
 
 <p>
-  <img align="right" src="https://user-images.githubusercontent.com/64726751/215330802-f7c46ad7-1857-48e0-a18a-d9bbd3d1d914.svg" width="200" height="200"/>
+  <img align="right" src="https://user-images.githubusercontent.com/64726751/215330802-f7c46ad7-1857-48e0-a18a-d9bbd3d1d914.svg" width="300" height="300"/>
 </p>
 
 - 🔭 I’m currently working on Vue.js projects.
 - 🌱 I’m currently learning React Native.
 - 👯 I’m looking to collaborate on interesting user experience oriented projects.
 - 🎯 I'm working hard every day on becoming a better developer, who can support colleagues with any task given.
-- 🎥 If not coding, I like to spend time doing graphic design, photography or editing videos. 
+- 🎥 If not coding, I like to spend time doing graphic design, photography or editing videos.
 
 <h3 align="left"> Languages and tools: </h3>
 <div>
@@ -63,6 +63,7 @@ Check out my <a href="https://www.annaskuratova.com/">portfolio</a> to learn mor
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmileyDoodle&layout=compact" />
   </p>
   <p>
+    &nbsp;
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=SmileyDoodle" />
   </p>
 </div>
