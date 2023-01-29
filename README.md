@@ -3,21 +3,17 @@ I am Anna, a full-stack developer based in Helsinki, Finland. Apart from having 
 
 Check out my <a href="https://www.annaskuratova.com/">portfolio</a> to learn more about me, my skills, interests and projects I am working on. 
 
-<!--
-**SmileyDoodle/SmileyDoodle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <img align="right" src="https://user-images.githubusercontent.com/64726751/215330802-f7c46ad7-1857-48e0-a18a-d9bbd3d1d914.svg" width="200" height="200"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
-
--->
+- 🔭 I’m currently working on Vue.js projects.
+- 🌱 I’m currently learning React Native.
+- 👯 I’m looking to collaborate on interesting user experience oriented projects.
+- 🎯 I'm working hard every day on becoming a better developer, who can support colleagues with any task given.
+- 🎥 If not coding, I like to spend time doing graphic design, photography or editing videos. 
 
 <h3 align="left"> Languages and tools: </h3>
-
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" width="50" height="50"/>
@@ -61,5 +57,12 @@ Check out my <a href="https://www.annaskuratova.com/">portfolio</a> to learn mor
   <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/cigoteabm6kplqug2ovn" width="50" height="50">
 </div>
 
-
-
+<h3 align="left"> Statistics: </h3>
+<div>
+  <p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmileyDoodle&layout=compact" />
+  </p>
+  <p>
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=SmileyDoodle" />
+  </p>
+</div>
