@@ -8,7 +8,7 @@ Check out my <a href="https://www.annaskuratova.com/">portfolio</a> to learn mor
 </p>
 
 - 🔭 I’m currently working on Vue.js projects.
-- 🌱 I’m currently learning React Native.
+- 🌱 I’m currently learning React Native, Flutter, and Python.
 - 👯 I’m looking to collaborate on interesting user experience oriented projects.
 - 🎯 I'm working hard every day on becoming a better developer, who can support colleagues with any task given.
 - 🎥 If not coding, I like to spend time doing graphic design, photography or editing videos.
