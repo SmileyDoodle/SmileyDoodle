@@ -7,7 +7,7 @@ Check out my <a href="https://www.annaskuratova.com/">portfolio</a> to learn mor
   <img align="right" src="https://user-images.githubusercontent.com/64726751/215330802-f7c46ad7-1857-48e0-a18a-d9bbd3d1d914.svg" width="300" height="300"/>
 </p>
 
-- 🔭 I’m currently working on Vue.js projects.
+- 🔭 I’m currently working on React projects.
 - 🌱 I’m currently learning React Native, Flutter, and Python.
 - 👯 I’m looking to collaborate on interesting user experience oriented projects.
 - 🎯 I'm working hard every day on becoming a better developer, who can support colleagues with any task given.
@@ -48,6 +48,7 @@ Check out my <a href="https://www.annaskuratova.com/">portfolio</a> to learn mor
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Affinity_Publisher_Icon.png?20210830172457" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50" height="50"/>
+  <img src="https://img.jsdelivr.com/github.com/rive-app.png" width="50" height="50"/>
 </div>
 <div>
   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="50" height="50">
